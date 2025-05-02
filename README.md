@@ -3,7 +3,7 @@
  
 ## 💻 Preview
 
-![Image](https://github.com/user-attachments/assets/50404add-f66a-435b-bb5f-e8e2064d984f)
+![Image](https://github.com/user-attachments/assets/b4ff3c3e-e01d-4b5d-99a0-5490968bfadf)
 
 ## 👾 Features
 - Fully request based solver
