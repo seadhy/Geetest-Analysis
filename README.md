@@ -2,7 +2,7 @@
  This repository contains my analysis of Geetest. I used a basic babel transformation and some dynamic analysis for this project. Feel free to reach me: seadhy@protonmail.com
 
 ## 👾 Features
-- Fully request-based implementation
+- Fully request-based research
 - Includes Task Types: Slide, Icon Crusher, and Gobang
 
 ## ⚠️ DISCLAIMER
