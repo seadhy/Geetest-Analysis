@@ -243,7 +243,7 @@ class GeeTest:
         if response:
             return response
     
-    def solve(self):
+    def run(self):
         task = self.__get_task()
         
         self.risk_type = task['captcha_type']
@@ -272,6 +272,6 @@ if __name__ == '__main__':
         proxy=random.choice(PROXIES)
     )
     
-    solution = geetest_session.solve()
+    solution = geetest_session.run()
     print(json.dumps(solution, indent=4))
     
