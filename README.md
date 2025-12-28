@@ -3,7 +3,7 @@
  
 ## 💻 Preview
 
-![Image](https://github.com/user-attachments/assets/b4ff3c3e-e01d-4b5d-99a0-5490968bfadf)
+![Image](https://github.com/user-attachments/assets/ee4a4391-33c0-46a0-8da2-f64f3f45e29e)
 
 ## 👾 Features
 - Fully request-based implementation
