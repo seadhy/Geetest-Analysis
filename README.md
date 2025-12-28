@@ -10,4 +10,4 @@
 - Supported Task Types: Slide, Icon Crusher, and Gobang
 
 ## ⚠️ DISCLAIMER
-This GitHub repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
+This repository is for educational and defensive security research only. Do not use it to circumvent security protections or violate any service’s terms.
