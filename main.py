@@ -11,7 +11,7 @@ from modules.icon_crusher import IconCrusherSolver
 from modules.response_generator import ResponseGenerator
 
 
-class GeeTestSolver:
+class GeeTest:
     def __init__(self, captcha_id: str, proxy: str):
         self.captcha_id = captcha_id
         self.challenge = str(uuid4())
@@ -267,7 +267,7 @@ class GeeTestSolver:
 if __name__ == '__main__':
     PROXIES = open('assets/proxies.txt').read().splitlines()
 
-    geetest_session = GeeTestSolver(
+    geetest_session = GeeTest(
         captcha_id='fcd636b4514bf7ac4143922550b3008b',
         proxy=random.choice(PROXIES)
     )
